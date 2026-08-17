@@ -142,3 +142,9 @@
 .community-card:hover .community-note {
 	border-color: rgba(55, 183, 219, 0.45);
 }
+
+@media (max-width: 520px) {
+	.hero h1 {
+		color: #ffffff !important;
+	}
+}
